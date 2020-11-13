@@ -1,0 +1,8 @@
+Admin Reports (Enter a number)
+1) View all course
+2) View all courses that are full
+3) Write to a file the list of full courses
+4) View course's registered students
+5) View student's registered courses
+6) Sort courses based on students registered
+7) Exit

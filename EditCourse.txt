@@ -1,0 +1,9 @@
+Edit course (enter a number and then your desired input)
+1) Course name
+2) Course ID
+3) Maximum number of students
+4) Current number of students
+5) Instructor name
+6) Section Number
+7) Location
+8) Exit

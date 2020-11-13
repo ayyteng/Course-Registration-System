@@ -1,0 +1,7 @@
+Admin Course Management (Enter a number)
+1) Create a new course
+2) Delete a course
+3) Edit a course
+4) Display information for a given course
+5) Register a new student
+6) Exit

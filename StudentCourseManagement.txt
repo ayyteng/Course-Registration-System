@@ -1,0 +1,7 @@
+Student Course Management (enter a number)
+1) View all courses
+2) View all courses that are not full
+3) Register in a course
+4) Withdraw from a course
+5) View your registered courses
+6) Exit
